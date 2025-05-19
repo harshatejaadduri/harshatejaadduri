@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshatejaadduri
-- 👀 I’m interested in ...Data Analysis
-- 🌱 I’m currently learning ...Google Data Analytics
-- 💞️ I’m looking to collaborate on ...Data Analysts
+- 👀 I’m interested in ...DevOps
+- 🌱 I’m currently learning ...DevSecOps with Aws
+- 💞️ I’m looking to collaborate on ...DevOps Engineers
 - 📫 How to reach me ...harshateja3@gmail.com
 
 <!---
